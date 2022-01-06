@@ -19,11 +19,11 @@ It also outputs a table showing which Ticker had the Greatest Increase, Greatest
 
 <br />
 <br />
-<br />
 
 ---
+<br />
 
-<img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/85902864?v=4">
+<img style="height:auto; border-radius:50%" alt="" width="200" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/85902864?v=4">
 
 ### Abz Raja
 abzraja@gmail.com
