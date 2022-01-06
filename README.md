@@ -1,6 +1,6 @@
 # VBA Script
 
-This script I wrote loops through data in the stock_data.xls file and outputs the Each Unique Ticker Code its finds along with the Yearly Change, Percent Change and Total Stock Volume for each specific Ticker Code.
+This script I wrote loops through data in the stock_data.xls file and outputs Each Unique Ticker Code its finds along with the Yearly Change, Percent Change and Total Stock Volume for each specific Ticker Code.
 
 It also outputs a table showing which Ticker had the Greatest Increase, Greatest Decrease and Greatest Volume.
 
