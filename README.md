@@ -23,7 +23,7 @@ It also outputs a table showing which Ticker had the Greatest Increase, Greatest
 ---
 <br />
 
-<img style="height:auto; border-radius:50%" alt="" width="200" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/85902864?v=4">
+<img style="border-radius:50%" alt="" width="150" class="avatar avatar-user width-full border color-bg-default" src="https://drive.google.com/uc?export=view&id=1OH_TvDjISYpoKL_98Jx3CDFPM7Xp8J6H">
 
 ### Abz Raja
 abzraja@gmail.com
