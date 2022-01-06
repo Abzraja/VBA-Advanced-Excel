@@ -1,6 +1,7 @@
 # VBA Stock Market Analysis
 
 There are 3 Years of stock market data, each year on a separate work sheet. The script loops through each sheet and outputs calculated information for each year.
+This script I wrote loops through data in the stock_data.xls file and outputs Each Unique Ticker Code its finds along with the Yearly Change, Percent Change and Total Stock Volume for each specific Ticker Code.
 
 ![Stock Market Analyst](Images/stockmarket.jpg)
 
